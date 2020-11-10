@@ -1,0 +1,8 @@
+0 bindkey '\e[1;3D' backward-word
+  1 bindkey '\e[1;3C' forward-word
+  2 bindkey '\e[1;3A' beginning-of-line
+  3 bindkey '\e[1;3B' end-of-line
+  4
+  5 #bindkey '\ev' deer
+  6 #bindkey -s '\eu' 'ranger_cd\n'
+  7 #bindkey -s '\eOS' 'vim '
